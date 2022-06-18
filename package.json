@@ -2,15 +2,16 @@
     "name": "clean-sepia-theme",
     "displayName": "Clean Sepia Theme",
     "description": "VSCode theme that is easy on your eyes",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "zeeshans",
+    "icon": "images/clean-sepia-theme-logo.png",
     "repository": {
         "type": "git",
         "url":"https://github.com/zeeshan-shahab/clean-sepia-theme"
     },
     "license": "MIT",
     "engines": {
-        "vscode": "^1.68.0"
+        "vscode": "^1.47.0"
     },
     "categories": [
         "Themes"
