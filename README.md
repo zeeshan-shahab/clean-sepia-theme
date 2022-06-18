@@ -1,5 +1,5 @@
-# README
+# Clean Sepia Theme
 
-## This is the README for extension "clean-sepia-theme"
+## This is a high contrast theme with sepia background
 
-This is a high contrast theme with sepia background. 
+![image](images/demo.png)
