@@ -1,0 +1,27 @@
+{
+    "name": "clean-sepia-theme",
+    "displayName": "Clean Sepia Theme",
+    "description": "VSCode theme that is easy on your eyes",
+    "version": "0.0.1",
+    "publisher": "zeeshans",
+    "repository": {
+        "type": "git",
+        "url":"https://github.com/zeeshan-shahab/clean-sepia-theme"
+    },
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Clean Sepia",
+                "uiTheme": "hc-light",
+                "path": "./themes/Clean Sepia-color-theme.json"
+            }
+        ]
+    }
+}
